@@ -19,11 +19,11 @@ body {
   }
   
   .page-header {
-    background-color: #8baf8d;
+    background-color: #9fe9a3;
   }
   
   .submit:hover {
-    background-color: palegoldenrod;
+    background-color: rgb(153, 148, 100);
   }
   
   .container {
@@ -115,7 +115,7 @@ body {
     padding: 10px 40px;
     display: block;
     margin: 0 auto;
-    color: #303030;
+    color: #906030;
     margin-top: 40px;
     margin-bottom: 40px;
   }
